@@ -1,0 +1,14 @@
+.cart-container{
+    background-color: rgb(255, 122, 60);
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    margin: 0px ;
+    justify-content: space-evenly;
+    /* text-align: center; */
+    align-items: center;
+    text-decoration: none;
+    padding: 20px;
+}
